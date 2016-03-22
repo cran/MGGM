@@ -1,0 +1,15 @@
+e73a1312fbce6985bc092e9d801198c0 *DESCRIPTION
+7798dc2f13fcd321671637e15fc0ddf4 *NAMESPACE
+df88d51911a91c8e685d366428ec1162 *R/MGGM.R
+0c18d11de62c80d0ff5b0d02f390f37c *build/partial.rdb
+d282d179c8b6c9487a450691847dfe51 *man/MGGM-package.Rd
+03c96b38d781ae234e51c6d95e4c6514 *man/MGGM.path.Rd
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars.win
+6994694d18d3e91650b3c5cbb2d16a01 *src/blas.h
+936fba9c11036cc3a728b4a99fae9290 *src/def.c
+48a7404ae52d8b7326d85de5ed0d0921 *src/def.h
+5a63e4803ae11314bfd84a415343115b *src/dmatrix.c
+6bcd26ecc96930d1d2049929d2d47558 *src/dmatrix.h
+9993a2845bb60b30f3eca6c5b504f390 *src/lapack.h
+fe4a93fdbd5ed845e68f4db493cd3970 *src/main.cpp

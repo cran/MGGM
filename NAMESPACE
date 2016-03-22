@@ -1,0 +1,5 @@
+useDynLib(MGGM, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+exportPattern(".")
+import(stats)
+
